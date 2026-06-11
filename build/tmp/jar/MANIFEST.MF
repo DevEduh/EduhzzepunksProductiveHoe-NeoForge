@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Specification-Title: eduhzzepunks_productive_hoe
+Specification-Vendor: Eduhzzepunk
+Specification-Version: 1
+Implementation-Title: EduhzzepunksProductiveHoe
+Implementation-Vendor: Eduhzzepunk
+Implementation-Timestamp: 2026-06-11T08:42:21-0600
+
